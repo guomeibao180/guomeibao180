@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## The key to success in shaping the future is learning—relying on self-study and lifelong learning.
-![图片](u=2941639379,2579651703&fm=253&fmt=auto&app=138&f=JPEG.webp)
+
 
 <!--
 **guomeibao180/guomeibao180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
