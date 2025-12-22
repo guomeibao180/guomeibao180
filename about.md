@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+适应变化致胜法宝就是学习——依靠自己学习，终生学习。
 
 ### Contact me
 
