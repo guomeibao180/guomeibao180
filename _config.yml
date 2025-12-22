@@ -17,15 +17,15 @@ avatar: images/我的头像.jpg
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links: 0001
-  dribbble: 0001
+footer-links:
+  dribbble:
   email: guomeibao180@icloud.com
-  facebook: 0001
-  flickr: 0001
+  facebook:
+  flickr:
   github: guomeibao180
-  instagram: 0001
-  linkedin: 0001
-  pinterest: 0001
+  instagram:
+  linkedin:
+  pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
